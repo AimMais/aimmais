@@ -1,0 +1,21 @@
+print("Hi LoL Player!")
+print("             ")
+print("Willst du eine Position für LoL auswählen?")
+print("             ")
+int_nichts = input("1=JA")
+print("             ")
+
+import random
+list1 = ["Jungle","Middle","Top","Under"]
+print(random.choice(list1))
+
+int_fort = input("Enter zum Benden")
+
+
+print("              ")
+print("           ___")
+print(" -------   | ´)")
+print("/       \/ /")
+print("----------/")
+print(" /.      \.")
+print("            coded by aimmais")
